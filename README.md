@@ -1,7 +1,5 @@
 # BigData
 
-##Big Data
-
 Objectives:
 
 In this challenge, I will perform the ETL process completely in the cloud and upload a DataFrame to an RDS instance. I will use PySpark to perform a statistical analysis of the selected data.
